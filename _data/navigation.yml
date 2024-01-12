@@ -1,0 +1,30 @@
+- title: Home
+  url: "/"
+  side: left  
+
+- title: Cerimonia
+  url: "/cerimonia/"
+  side: left
+
+- title: Ricevimento
+  url: "/location/"
+  side: left
+ 
+
+- title: Il nostro viaggio 🎁
+  url: "/viaggio-di-nozze/"
+  side: left
+  
+- title: "Libretto Messa"
+  url: "/messa/"
+  side: left
+
+
+
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+
+- title: "Conferma il tuo posto 🛩️"
+  url: "/conferma/"
+  side: right
