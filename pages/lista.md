@@ -6,7 +6,7 @@ permalink: "/lista/"
 
 ---
 
-La vostra presenza sarà per noi il dono più bello, ma se desiderate farci un regalo, il più gradito sarà un contributo per rendere indimenticabile la nostra luna di miele.
+La vostra presenza sarà per noi il dono più bello, ma se desiderate farci un regalo, il più gradito sarà un contributo per rendere indimenticabile la nostra luna di miele. <br>
 Abbiamo creato la lista nozze presso l’agenzia viaggi “Asti Viaggi”.
 
 <img src="{{ site.urlimg }}asti.png" alt="">
