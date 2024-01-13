@@ -6,7 +6,7 @@ permalink: "/photo/"
 
 ---
 
-<img src="{{ site.urlimg }}1.jpg" alt="">
+<img src="{{ site.urlimg }}1.JPG" alt="">
 
 Il nostro matrimonio e la nostra festa sono stati un’esperienza unica, ricca di emozioni, resa ancor più speciale dalla vostra presenza e dai momenti indimenticabili che abbiamo condiviso insieme.
 
@@ -20,15 +20,15 @@ Attraverso questo spazio, potete caricare le foto e i video che avete catturato 
 
 Per condividere i vostri momenti:
 
-1. installa l’applicazione WedShoots
++ Installa l’applicazione WedShoots
 
-<img src="{{ site.urlimg }}2.jpg" alt="">
+<img src="{{ site.urlimg }}2.JPG" alt="">
 
-2.	Accedi all’album
++ Accedi all’album
 
-<img src="{{ site.urlimg }}3.jpg" alt="">
+<img src="{{ site.urlimg }}3.JPG" alt="">
 
-3.	Condividi
++ Condividi
 
 Carica tantissime foto e video, e aiutaci a creare un album virtuale... sarà un bellissimo ricordo per noi!
 Puoi scattare le foto direttamente con l’applicazione oppure caricarle dalla galleria immagini.
