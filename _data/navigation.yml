@@ -11,20 +11,20 @@
   side: left
  
 
-- title: Il nostro viaggio 🏝
+- title: Lista di nozze
+  url: "/lista/"
+  side: left
+
+
+- title: Luna di miele 🌙
   url: "/viaggio-di-nozze/"
   side: left
   
-- title: "Libretto Messa"
-  url: "/messa/"
+
+- title: Contatti 💌
+  url: "/contatti/"
   side: left
 
-
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
-
-- title: "Conferma il tuo posto 🎀"
-  url: "/conferma/"
+- title: Wedding Photo&Video
+  url: "/photo/"
   side: right

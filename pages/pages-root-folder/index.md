@@ -8,22 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: foto.jpeg
 widget1:
-  title: "Luogo cerimonia"
+  title: "Cerimonia"
   url: 'https://emilyemarco.github.io/cerimonia/'
-  image: santacroce.png
-  text: 'La cerimonia si svolgerà il 9/9/23 a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
+  image: pieve.jpg
+  
 widget2:
-  title: "Location"
+  title: "Ricevimento"
   url: 'https://emilyemarco.github.io/location/'
-  text: 'Festeggeremo il nostro matrimonio tra il verde delle colline di San Miniato.'
-  #, presso <br> l&apos; Agriturismo Cafaggio.'
-  image: cafaggio.jpeg
+  image: villa.jpg
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Viaggio di nozze"
+  title: "Lista di Nozze"
   url: 'https://emilyemarco.github.io/viaggio-di-nozze/'
-  image: antelope.jpg
-  text: 'Scopri le tappe del nostro viaggio e, se vuoi, aiutaci a realizzare questo sogno.'
+  image: regalo.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
