@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Ricevimento"
   url: 'https://emilyemarco.github.io/location/'
-  image: villa.jpg
+  image: villa alta.jpg
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Lista di Nozze"

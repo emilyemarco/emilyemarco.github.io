@@ -7,7 +7,7 @@ permalink: "/location/"
 
 
 
-A seguire della celebrazione alla Pieve di San Marco, vi chiediamo di raggiungere a piedi l’entrata di Villa Alta, dove vi attenderanno delle navette per accompagnarvi al luogo in cui si svolgerà il ricevimento, la magnifica Villa Alta.
+A seguire della celebrazione alla Pieve di San Marco, vi chiediamo di raggiungere a piedi l’entrata di Villa Alta, dove vi attenderanno delle navette per accompagnarvi al luogo in cui si svolgerà il ricevimento, la magnifica <a href="https://www.instagram.com/villaaltatuscany/">Villa Alta</a>.
 
 <img src="{{ site.urlimg }}villa alta.jpg" alt="">
 
