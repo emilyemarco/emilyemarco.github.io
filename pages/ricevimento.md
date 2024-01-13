@@ -2,7 +2,6 @@
 layout: page
 header: no
 title: "Ricevimento"
-sidebar: right
 permalink: "/location/"
 ---
 
