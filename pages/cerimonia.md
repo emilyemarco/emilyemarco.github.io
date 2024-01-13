@@ -5,20 +5,29 @@ title: "Cerimonia"
 #subheadline: "Chiesa di Santa Croce in Fossabanda, Pisa"
 #teaser: "La cerimonia si svolgerà nella Chiesa di Santa Croce in Fossabanda, che si trova in Piazza Santa Croce in Fossabanda, 12, 56124 Pisa PI"
 permalink: "/cerimonia/"
-image:
-    title: "chiesa-di-santa-croce.jpg"
 ---
 
 
 
-La cerimonia si svolgerà alle **h 11:00** del 9 Settembre nella chiesa Chiesa di Santa Croce in Fossabanda, di seguito trovi l'indirizzo e le indicazioni per arrivare: 
+Siamo felici di annunciare che il nostro matrimonio si terrà **sabato 22 giugno 2024** alle ore **16.30** presso la Pieve di San Marco a Rigoli.
 
+<img src="{{ site.urlimg }}pieve_san_marco.jpg" alt="">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.9521257002266!2d10.412324375966314!3d43.711543971099424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d5916c89b942b9%3A0x143cac5357ce1948!2sChiesa%20Santa%20Croce%20in%20Fossabanda!5e0!3m2!1sit!2sit!4v1684097468119!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+La Pieve di San Marco a Rigoli è una perla architettonica dell'VIII secolo. 
+
+Posta lungo la strada che lambisce la base occidentale del Monte Pisano e congiunge Pisa a Lucca, nel suggestivo raccoglimento dei monti che fanno da cornice, Rigoli custodisce l’antica Pieve di San Pietro e San Giovanni Battista, oggi sotto il titolo di “San Marco”.
+
+Unica chiesa del territorio con ampia struttura a tre navate, ciascuna delle quali con abside semicircolare, conserva tracce della sua formazione come una delle più antiche testimonianze "viventi" di chiesa battesimale, con vasca custodita all'interno.
+La pieve romanica viene presentata alla luce della sua importanza storica e della sua rilevanza artistica, caratteristiche che la fanno rientrare tra i più bei monumenti del patrimonio artistico della Diocesi pisana.
+
+All'interno si può ammirare una pregevole tavola dipinta con Madonna in trono e angeli, firmata da Turino Vanni, pittore pisano tra Trecento e Quattrocento.
 
 <br>
 
-Nei pressi della chiesa, davanti al palazzo dei congressi in via Matteotti, è disponibile un ampio parcheggio a pagamento:
+**COME ARRIVARE**
+<br>
 
+La Pieve è situata in Via Statale Abetone Rigoli, 92, 56017 (PI). <br>
+Vi invitiamo a raggiungere Villa Alta (Via Statale Abetone, 110, 56017 Rigoli PI), dove potrete parcheggiare la vostra auto e a seguito raggiungere a piedi la Pieve in circa 1 minuto.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11536.163906019648!2d10.4114497!3d43.7096975!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d5919160438d9d%3A0x5235ffd13551f99c!2sParcheggio%20Palazzo%20dei%20Congressi!5e0!3m2!1sit!2sit!4v1687768902021!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="{{ site.urlimg }}screen_parcheggio.JPG" alt="">
