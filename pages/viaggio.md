@@ -13,7 +13,7 @@ Il nostro viaggio partirà da <u>Bangkok</u>, città vibrante e dinamica.
 
 <p float="left">
   <img src="{{ site.urlimg }}bangkok 1.jpeg" width="100" />
-  <img src="{{ site.urlimg }}Bangkok 2.jpeg" width="100" />
+  <img src="{{ site.urlimg }}Bangkok 2.jpg" width="100" />
 </p>
 
 Poi voleremo verso la splendida <u>Singapore</u>. 
