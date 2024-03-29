@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: IMG_4585.HEIC
+  image_fullwidth: IMG_4585.jpg
 widget1:
   title: "Cerimonia"
   url: 'https://emilyemarco.github.io/cerimonia/'
